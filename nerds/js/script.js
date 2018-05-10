@@ -1,17 +1,17 @@
-//map
-function initMap() {
-	var map = new google.maps.Map(document.getElementById('map'), {
-		zoom: 17,
-		center: {lat: 59.9393, lng: 30.322}
-	});
+//map 
+// function initMap() {
+// 	var map = new google.maps.Map(document.getElementById('map'), {
+// 		zoom: 17,
+// 		center: {lat: 59.9393, lng: 30.322}
+// 	});
 
-	var image = './img/map-marker.png';
-	var beachMarker = new google.maps.Marker({
-		position: {lat: 59.9387942, lng: 30.3230833},
-		map: map,
-		icon: image
-	});
-}
+// 	var image = './img/map-marker.png';
+// 	var beachMarker = new google.maps.Marker({
+// 		position: {lat: 59.9387942, lng: 30.3230833},
+// 		map: map,
+// 		icon: image
+// 	});
+// }
 
 
 //popup
