@@ -2,3 +2,4 @@
 * [Rabota.ua - Ціни відпочивають](https://raccoonroman.github.io/rabota.ua/)
 * [Barbershop BORODINSKI](https://raccoonroman.github.io/barbershop/)
 * [NЁRDS Design Studio](https://raccoonroman.github.io/nerds/)
+* [SEDONA](https://raccoonroman.github.io/sedona/)
