@@ -4,3 +4,4 @@
 * [NЁRDS Design Studio](https://raccoonroman.github.io/nerds/)
 * [SEDONA - поиск отелей](https://raccoonroman.github.io/sedona/) `min-width: 768px`
 * [Интернет-магазин Техномат](https://raccoonroman.github.io/technomart/)
+* [Интернет-магазин DEVICE](https://raccoonroman.github.io/device/)
