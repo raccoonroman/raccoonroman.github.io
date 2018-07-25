@@ -1230,6 +1230,8 @@ input[type="checkbox"].visually-hidden {
         top: 0;
         left: 0;
         z-index: 1;
+        max-width: 100%;
+        height: auto;
     }
 }
 
