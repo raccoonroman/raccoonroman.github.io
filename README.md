@@ -5,3 +5,4 @@
 * [SEDONA - поиск отелей](https://raccoonroman.github.io/sedona/) `min-width: 768px`
 * [Интернет-магазин Техномат](https://raccoonroman.github.io/technomart/)
 * [Интернет-магазин DEVICE](https://raccoonroman.github.io/device/)
+* [BLAGOYART - тест-макет](https://raccoonroman.github.io/blagoyart/) `min-width: 320px`
