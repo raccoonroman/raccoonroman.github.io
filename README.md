@@ -6,3 +6,4 @@
 * [Интернет-магазин Техномат](https://raccoonroman.github.io/technomart/)
 * [Интернет-магазин DEVICE](https://raccoonroman.github.io/device/)
 * [BLAGOYART - тест-макет](https://raccoonroman.github.io/blagoyart/index.html) `min-width: 320px`
+* [Pink - приложение](https://raccoonroman.github.io/pink/index.html) `min-width: 320px`
