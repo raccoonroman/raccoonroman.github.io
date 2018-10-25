@@ -1,0 +1,1 @@
+document.body.onload=function(){setTimeout(function(){var o=document.body.querySelector(".preloader");o.classList.contains("preloader__no-active")||o.classList.add("preloader__no-active")},1)};

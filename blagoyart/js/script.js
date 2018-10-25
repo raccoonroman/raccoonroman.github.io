@@ -1,1 +1,0 @@
-$(".slider__list").slick({mobileFirst:!0,responsive:[{breakpoint:1355,settings:{dots:!0}}]});
