@@ -15,9 +15,9 @@
 * [coco.bm](https://www.coco.bm/)
 * [veranderen.dk](http://veranderen.dk/)
 * [high775.linkgod.com](http://high775.linkgod.com/)
-* [newweb.lollybus.com.au](https://newweb.lollybus.com.au)
-* [bmw.smpx.icu](http://bmw.smpx.icu/)
+* [lollybus.com.au](https://lollybus.com.au)
+<!-- * [bmw.smpx.icu](http://bmw.smpx.icu/) -->
 * [www.gazzine.com](https://www.gazzine.com)
 * [pets.smpx.icu](http://pets.smpx.icu/)
-* [lasertag.smpx.icu](lasertag.smpx.icu/)
+* [lasertag.smpx.icu](http://lasertag.smpx.icu/)
 * [test.smpx.icu](http://test.smpx.icu/)
