@@ -1,5 +1,5 @@
 
-### Training (code is here)
+### Training
 * [Магазин мороженого Gllacy](https://raccoonroman.github.io/gllacy/)
 * [rabota.ua - Ціни відпочивають](https://raccoonroman.github.io/rabota.ua/)
 * [Barbershop BORODINSKI](https://raccoonroman.github.io/barbershop/)
@@ -11,6 +11,7 @@
 
 ### Сommercial
 * [Помогаем быть услышанными](https://raccoonroman.github.io/helping-to-be-heard/)
+* [Форма в виде слайдера](https://raccoonroman.github.io/car-dealer/)
 * [charmistry.com](https://www.charmistry.com/)
 * [atelium.com](http://www.atelium.com/)
 * [coco.bm](https://www.coco.bm/)
