@@ -11,7 +11,7 @@
 
 ### Сommercial
 * [Помогаем быть услышанными](https://raccoonroman.github.io/helping-to-be-heard/)
-* [Форма в виде слайдера](https://raccoonroman.github.io/car-dealer/)
+* [Форма в виде слайдера](https://raccoonroman.github.io/car-dealer/index.html)
 * [charmistry.com](https://www.charmistry.com/)
 * [atelium.com](http://www.atelium.com/)
 * [coco.bm](https://www.coco.bm/)
