@@ -10,7 +10,7 @@
 * [Pink - приложение](https://raccoonroman.github.io/pink/index.html)
 
 ### Сommercial
-* [Помогаем быть услышанными](bot.goask.club/)
+* [Помогаем быть услышанными](https://bot.goask.club)
 * [Vanсity - Community Investment Bank](https://wp.smpx.icu/home/)
 * [Powell River Veterinary Hospital](https://powellriverveterinaryhospital.com/)
 * [coco.bm](https://www.coco.bm/)
