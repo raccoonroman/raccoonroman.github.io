@@ -11,8 +11,7 @@
 
 ### Сommercial
 * [Помогаем быть услышанными](https://bot.goask.club)
-* [Vanсity - Community Investment Bank](https://wp.smpx.icu/home/)
-* [Powell River Veterinary Hospital](https://powellriverveterinaryhospital.com/)
+* [Vanсity - Community Investment Bank](https://vancitycommunityinvestmentbank.ca)
 * [coco.bm](https://www.coco.bm/)
 * [Cyber Hosting](https://new.cyberhosting.at)
 * [charmistry.com](https://www.charmistry.com/)
@@ -22,5 +21,5 @@
 * [high775.linkgod.com](http://high775.linkgod.com/)
 * [lollybus.com.au](https://lollybus.com.au)
 * [gazzine.com](https://www.gazzine.com)
-* [Gamers Base](http://gamers.smpx.icu)
+* [IndustriGolv Sweden AB](https://igsab.se)
 <!-- * [bmw.smpx.icu](http://bmw.smpx.icu/) -->
