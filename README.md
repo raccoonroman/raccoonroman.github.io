@@ -2,6 +2,7 @@
 * [Digital Business Card](https://raccoonroman.github.io/dbc/)
 * [Помогаем быть услышанными](https://bot.goask.club)
 * [Vanсity - Community Investment Bank](https://vancitycommunityinvestmentbank.ca)
+* [O'HEHIRS](https://www.ohehirs.ie)
 * [coco.bm](https://www.coco.bm/)
 * [Cyber Hosting](https://new.cyberhosting.at)
 * [Форма в виде слайдера](https://raccoonroman.github.io/car-dealer/index.html)
@@ -14,10 +15,8 @@
 * [InspireTech](http://in-sp.tech/)
 * [Colorina Kids Party](https://colorinakidsparty.com)
 * [Highland Farmers](https://highlandfarmers.com)
-* [RICOH](https://ricoh-blog-wp.azurewebsites.net)
 * [Vohora](http://vohora.ca)
 * [Powell River Veterinary Hospital](https://powellriverveterinaryhospital.com)
-* [Hartman Tutoring](http://alicehartmantutoring.com/)
 * [veranderen.dk](http://veranderen.dk/)
 * [high775.linkgod.com](http://high775.linkgod.com/)
 * [lollybus.com.au](https://lollybus.com.au)
@@ -25,6 +24,8 @@
 * [IndustriGolv Sweden AB](https://igsab.se)
 
 ### Training
+* [Six cities](https://raccoonroman.github.io/six-cities/) - `React`, `Redux`, `TypeScript`
+* [Cinemaddict](https://raccoonroman.github.io/cinemaddict/) - `JS`, `REST API`, `Service Worker`
 * [Pink - приложение](https://raccoonroman.github.io/pink/index.html)
 * [Магазин мороженого Gllacy](https://raccoonroman.github.io/gllacy/)
 * [rabota.ua - Ціни відпочивають](https://raccoonroman.github.io/rabota.ua/)
