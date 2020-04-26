@@ -24,7 +24,7 @@
 * [IndustriGolv Sweden AB](https://igsab.se)
 
 ### Training
-* [Six cities](https://raccoonroman.github.io/six-cities/) - `React`, `Redux`, `TypeScript`
+* [Six cities](https://raccoonroman.github.io/ss/) - `React`, `Redux`, `TypeScript`
 * [Cinemaddict](https://raccoonroman.github.io/cinemaddict/) - `JS`, `REST API`, `Service Worker`
 * [Pink - приложение](https://raccoonroman.github.io/pink/index.html)
 * [Магазин мороженого Gllacy](https://raccoonroman.github.io/gllacy/)
